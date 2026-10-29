@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/.artifacts/
+.env
+.env.*
+*.clixml
+appsettings.Local.json
+*.local.json
+.vs/
+.idea/
